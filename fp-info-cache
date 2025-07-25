@@ -1,4 +1,4 @@
-26436799760733365
+26447320109461142
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98511,6 +98511,13 @@ Logo UKCA marking
 0
 0
 Symbol
+Untitled
+
+
+0
+0
+0
+Symbol
 WEEE-Logo_4.2x6mm_SilkScreen
 Waste Electrical and Electronic Equipment Directive https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32012L0019#page=29
 Logo WEEE
@@ -105629,3 +105636,38 @@ Three holes for soldering wires into
 0
 3
 3
+standard_symbols
+bone_logo_10mm
+
+
+0
+0
+0
+standard_symbols
+bone_logo_silk_screen
+
+
+0
+0
+0
+standard_symbols
+bone_xl_qr_silkscreen
+
+
+0
+0
+0
+standard_symbols
+negative_power
+
+
+0
+0
+0
+standard_symbols
+text
+
+
+0
+0
+0
