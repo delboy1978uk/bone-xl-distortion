@@ -7781,6 +7781,76 @@
 		)
 		(embedded_fonts no)
 	)
+	(footprint "standard_symbols:text"
+		(layer "F.Cu")
+		(uuid "caae40f2-a006-4414-a6c6-fac272db4d3d")
+		(at 196.5 116)
+		(property "Reference" "v1.0.0"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "d7aca84b-aa1c-435a-a11c-75111d05aa0f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Text"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "40f67cba-b294-4dcc-b54c-cff66e359202")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "174ca551-2197-45b2-ae00-1cd957bce1d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40424168-d5ad-46c4-95a0-d29247614771")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr board_only exclude_from_pos_files exclude_from_bom)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "21a582f3-1a63-4755-ace9-13e6a23d2cb9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
 		(layer "F.Cu")
 		(uuid "cbd4327b-fa1f-4f7a-8da0-9fe269f8fdd3")
