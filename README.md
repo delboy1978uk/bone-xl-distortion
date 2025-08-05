@@ -8,28 +8,28 @@ different op-amp), but all credit for the circuit design should go to Brian. Thi
 ![actual_pcbs.png](actual_pcbs.png)
 ## bill of materials
 
-| Reference               | Value      | Qty 
-|-------------------------|------------|-----
-| BT1                     | 9V         | 1   
-| C1,C2                   | 47µF       | 2   
-| C3,C10,C11              | 22nF       | 3   
-| C4,C8                   | 100pF      | 2   
-| C5                      | 47nF       | 1   
-| C6                      | 50pF       | 1   
-| C7                      | 680nF      | 1   
-| C9,C12                  | 1µF        | 2   
-| D1,D2                   | LED        | 2   
-| J1,J2                   | AudioJack2 | 2   
-| R1,R2,R3,R7,R11,R12,RV2 | 10kΩ       | 7   
-| R4,R8                   | 1MΩ        | 2   
-| R5                      | 4.7kΩ      | 1   
-| R6                      | 2.2kΩ      | 1   
-| R9                      | 680kΩ      | 1   
-| R10                     | 1kΩ        | 1   
-| R13                     | 220Ω       | 1   
-| RV1,RV3                 | 100kΩ      | 2   
-| U1                      | LM358      | 1   
-| U2                      | J201       | 1  
+| Reference               | Value      | Qty | Notes
+|-------------------------|------------|-----|-----
+| BT1                     | 9V         | 1   | 9v in -ve core
+| C1,C2                   | 47µF       | 2   | electrolytic
+| C3,C10,C11              | 22nF       | 3   | 223
+| C4,C8                   | 100pF      | 2   | 101
+| C5                      | 47nF       | 1   | 473
+| C6                      | 50pF       | 1   | 500
+| C7                      | 680nF      | 1   | 684
+| C9,C12                  | 1µF        | 2   | 105
+| D1,D2                   | LED        | 2   | any colour
+| J1,J2                   | AudioJack2 | 2   | guitar in/out
+| R1,R2,R3,R7,R11,R12,RV2 | 10kΩ       | 7   | blk brn ora
+| R4,R8                   | 1MΩ        | 2   | blk brn grn
+| R5                      | 4.7kΩ      | 1   | yel pur red
+| R6                      | 2.2kΩ      | 1   | red red red
+| R9                      | 680kΩ      | 1   | blu gre yel
+| R10                     | 1kΩ        | 1   | bro blk red
+| R13                     | 220Ω       | 1   | red red bro
+| RV1,RV3                 | 100kΩ      | 2   | pots
+| U1                      | LM358      | 1   | dual op amp
+| U2                      | J201       | 1   | jfet
 
 
 ![pedal_enclosure.png](pedal_enclosure.png)
