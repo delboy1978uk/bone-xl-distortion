@@ -5,6 +5,7 @@ Pedals https://www.wamplerpedals.com/blog/lifestyle-hobby/2024/08/how-to-design-
 different op-amp), but all credit for the circuit design should go to Brian. This is my first project learning and using KiCad for PCB design.
 ![back.png](back.png)
 
+![actual_pcbs.png](actual_pcbs.png)
 ## bill of materials
 
 | Reference               | Value      | Qty 
@@ -31,3 +32,4 @@ different op-amp), but all credit for the circuit design should go to Brian. Thi
 | U2                      | J201       | 1  
 
 
+![pedal_enclosure.png](pedal_enclosure.png)
