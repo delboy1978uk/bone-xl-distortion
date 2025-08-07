@@ -15,7 +15,7 @@ different op-amp), but all credit for the circuit design should go to Brian. Thi
 | C3,C10,C11              | 22nF       | 3   | 223
 | C4,C8                   | 100pF      | 2   | 101
 | C5                      | 47nF       | 1   | 473
-| C6                      | 50pF       | 1   | 500
+| C6                      | 50pF       | 1   | 50
 | C7                      | 680nF      | 1   | 684
 | C9,C12                  | 1µF        | 2   | 105
 | D1,D2                   | LED        | 2   | any colour
