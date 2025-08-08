@@ -33,5 +33,6 @@ different op-amp), but all credit for the circuit design should go to Brian. Thi
 | U1                      | LM358      | 1   | dual op amp
 | U2                      | J201       | 1   | jfet
 
+![schematic.png](schematic.png)
 
 ![pedal_enclosure.png](pedal_enclosure.png)
